@@ -17,7 +17,7 @@ export default function Router() {
 
             <Stack.Screen name='Home' component={Home}/>
             <Stack.Screen name='Usuario' component={Usuario}/>
-            <Stack.Screen name='Posts' component={Posts}/>
+            <Stack.Screen name='Postes' component={Posts}/>
 
         </Stack.Navigator>
 
